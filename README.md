@@ -88,4 +88,4 @@ Revenue Monitoring: Pinpoint top contributors and optimize for high-value bookin
 CX Strategy: Reduce incomplete rides and boost ratings by understanding root causes.
 
 # Screenshots / Demos
-You can include in your GitHub: 
+You can include in your GitHub: https://github.com/shivkanyam945/OLA-Analysis/blob/main/Ola%20Cancellation%20Analysis.png 
